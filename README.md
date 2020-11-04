@@ -2,12 +2,16 @@
 ### Hi there 👋
 I'm Nathan, a fourth-year student studying __Computer Science__ at UCSB. I am interested in Human and Computer Interaction and Accessibly. During my study at UCSB I have participated in Eearly Research Scholar Program where I studies how Virtual Reality can be used to facilitate peoples’ understanding on Environmental Science data. Checkout our group’s result [here]( https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). Currently, I am a research assistant at [Bionic Vision Lab](https://bionicvisionlab.org/) continuing my study on VR.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact)](https://github.com/nathanwoo/github-readme-stats)
+
+[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)](https://github.com/nathanwoo/github-readme-stats)
+
+
 ### I'm listening to 
 [![Spotify](https://novatorem.nathanwoo.vercel.app/api/spotify)](https://open.spotify.com/user/fnx2cmo6nj0acraigekac77ah)
 
 
-
-
+### Selected Projects:
 ### Projects :mag:
 | Project  | Tool Used|
 | ------------- | ------------- |
@@ -16,15 +20,7 @@ I'm Nathan, a fourth-year student studying __Computer Science__ at UCSB. I am in
 | Content Cell  | Content Cell  |
 --->
 
-<a href="https://github.com/nathanwoo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact" />
-</a>
-<a href="https://github.com/nathanwoo/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true" />
-</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact)](https://github.com/nathanwoo/github-readme-stats)
-[![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)](https://github.com/nathanwoo/github-readme-stats)
 
 
 <!--
