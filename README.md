@@ -7,10 +7,10 @@ I'm Nathan, a fourth-year student studying __Computer Science__ at UCSB. I am in
 [![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)](https://github.com/nathanwoo/github-readme-stats)
 -->
 <a href="https://github.com/nathanwoo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true" />
 </a>
 <a href="https://github.com/nathanwoo/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact" />
 </a>
 
 ### I'm listening to 
