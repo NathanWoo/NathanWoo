@@ -10,7 +10,7 @@ I'm Nathan, a fourth-year student studying __Computer Science__ at UCSB. I am in
 <!-- 
 | Content Cell  | Content Cell  |
 --->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact)](https://github.com/nathanwoo/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)](https://github.com/nathanwoo/github-readme-stats)
 
 
