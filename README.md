@@ -1,13 +1,19 @@
 ![banner](img/Banner.gif)
 ### Hi there 👋
-I'm Nathan, a fourth-year student studying __Computer Science__ and __Statistics and Data Science__ (this is one major) at UCSB. I am interested in Human and Computer Interaction and Accessibly. I’m fascinated about how technology can help to solve real world issues and makes people’s life more convenient. During my study at UCSB I have participated in ERSP where I studies how Virtual Reality can be used to facilitate peoples’ understanding on Environmental Science data. Checkout our group’s result [here]( https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). Currently, I am a research assistant at [Bionic Vision Lab](https://bionicvisionlab.org/) continuing my study on VR.
+I'm Nathan, a fourth-year student studying __Computer Science__ at UCSB. I am interested in Human and Computer Interaction and Accessibly. During my study at UCSB I have participated in Eearly Research Scholar Program where I studies how Virtual Reality can be used to facilitate peoples’ understanding on Environmental Science data. Checkout our group’s result [here]( https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). Currently, I am a research assistant at [Bionic Vision Lab](https://bionicvisionlab.org/) continuing my study on VR.
 
 
 ### Projects :mag:
 | Project  | Tool Used|
 | ------------- | ------------- |
 | [Time Series Analysis on US Labor Data](https://drive.google.com/file/d/1xUrlsUtG86nmRPjmEMzZo64vhqDjBj9y/view?usp=sharing)  | R, Box-Jekins Mehtod |
+<!-- 
 | Content Cell  | Content Cell  |
+--->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)](https://github.com/nathanwoo/github-readme-stats)
+
+
 <!--
 **NathanWoo/NathanWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
