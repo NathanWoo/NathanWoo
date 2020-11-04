@@ -11,8 +11,7 @@ I'm Nathan, a fourth-year student studying __Computer Science__ at UCSB. I am in
 [![Spotify](https://novatorem.nathanwoo.vercel.app/api/spotify)](https://open.spotify.com/user/fnx2cmo6nj0acraigekac77ah)
 
 
-### Selected Projects:
-### Projects :mag:
+### Selected Projects :mag: :
 | Project  | Tool Used|
 | ------------- | ------------- |
 | [Time Series Analysis on US Labor Data](https://drive.google.com/file/d/1xUrlsUtG86nmRPjmEMzZo64vhqDjBj9y/view?usp=sharing)  | R, Box-Jekins Mehtod |
