@@ -7,8 +7,8 @@ What motivates me is my deep-seated passion for developing technologies that can
 I also had the privilege of conducting research on VR's potential in improving the quality of life for visually impaired individuals. This experience opened my eyes to the power of technology in promoting accessibility and inclusivity, and reinforced my belief in the transformative potential of software engineering.
 
 My team's project on VR & Environmental Science
-
-Checkout our group’s result [here](https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). 
+[VR's Env Application](img/vr_env.png)
+View the PDF in detail [here](https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact)
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)
