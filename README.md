@@ -1,6 +1,12 @@
 ![banner](img/Banner.gif)
 ### Hi there 👋
-I'm Nathan, a first-year master student studying __Computer Science__ at Columbia University. I am interested in Human and Computer Interaction and Accessibly. I earn my Bachelor degree in CS at UCSB, where I have participated in Eearly Research Scholar Program and studied how Virtual Reality could be used to facilitate peoples’ understanding on Environmental Science data. Checkout our group’s result [here]( https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). 
+Hi, I'm Nathan, a recent graduate of the __Computer Science__ program at Columbia University. I'm actively seeking a Software Engineering job, as my previous job offer was affected by the tech lay-off that occurred in 2022.
+
+What motivates me is my deep-seated passion for developing technologies that can truly make a positive impact on people's lives. This drive was ignited during my time as an undergraduate student at UCSB, where I participated in the Early Research Scholar Program. Through this program, I delved into the exciting realm of Virtual Reality and explored its potential applications in Environmental Science data analysis. I was fascinated by how this emerging technology could enhance people's understanding of complex scientific concepts and inspire them to take action in protecting our planet.
+
+I also had the privilege of conducting research on VR's potential in improving the quality of life for visually impaired individuals. This experience opened my eyes to the power of technology in promoting accessibility and inclusivity, and reinforced my belief in the transformative potential of software engineering.
+
+Checkout our group’s result [here](https://drive.google.com/file/d/1hlMwbA6lATyMzwldB56foJHeYWUVL4B2/view). 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanwoo&layout=compact)
 ![Nathan's github stats](https://github-readme-stats.vercel.app/api?username=nathanwoo&count_private=true)
